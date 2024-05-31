@@ -89,7 +89,7 @@ def main():
         print("8. Einsatz von Kryptografie und Verschlüsselung")
         print("9. Sicherheit des Personals, Zugriffskontrollen, Management von Anlagen")
         print("10. Multi-Faktor-Authentifizierung und gesicherte Kommunikation")
-        print("\nWeitere Informationen finden Sie im Anhang 3 zu NISG 2024 Entwurf")
+        print("\nWeitere Informationen finden Sie im Anlage 3 zu NISG 2024 Entwurf")
     else:
         print("\nIhr Unternehmen ist nicht von der NIS2-Richtlinie betroffen.")
     
