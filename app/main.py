@@ -69,7 +69,7 @@ def main():
 
     if entity_type == "Wesentliche Einrichtung" or entity_type == "Wichtige Einrichtung":
         print("\nPflichten für wesentliche und wichtige Einrichtungen:")
-        print("§27 Registrierungspflicht")
+        print("§29 Registrierungspflicht")
         print("§31 Verantwortung der Leitungsorgane für die Einhaltung der Risikomanagementmaßnahmen")
         print("    Teilnahme an Cybersicherheitsschulungen")
         print("§32 Implementierung technischer, operativer und organisatorischer Maßnahmen zur Beherrschung der Risiken")
