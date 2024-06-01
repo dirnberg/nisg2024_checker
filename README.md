@@ -145,7 +145,7 @@ Unternehmensgröße: Mittleres Unternehmen
 Einrichtungsart: Wesentliche Einrichtung
 
 Pflichten für wesentliche und wichtige Einrichtungen:
-§27 Registrierungspflicht
+§29 Registrierungspflicht
 §31 Verantwortung der Leitungsorgane für die Einhaltung der Risikomanagementmaßnahmen
     Teilnahme an Cybersicherheitsschulungen
 §32 Implementierung technischer, operativer und organisatorischer Maßnahmen zur Beherrschung der Risiken
